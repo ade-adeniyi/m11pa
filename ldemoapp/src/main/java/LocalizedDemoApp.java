@@ -1,9 +1,9 @@
-// LocalizedDemoApp.java
-// D. Singletary
-// 11/3/24
-// demonstrates try-with-resources, localization, and command pattern.
-
-package edu.fscj.cop3330c.ldemoapp;
+/**
+ * Name: Adeniyi Adeyemi
+ * Course: COP3330C
+ * Assignment: Module 11 Program
+ * demonstrates try-with-resources, localization, and command pattern.
+ */
 
 import java.io.FileInputStream;
 import java.io.IOException;
